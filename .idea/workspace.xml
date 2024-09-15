@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88f8fba1-e345-48d1-ac8f-9032159ec276" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Lesson 7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loops_else.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ran_dom.py" afterDir="false" />
+    <list default="true" id="88f8fba1-e345-48d1-ac8f-9032159ec276" name="Changes" comment="loops_else, randoms">
+      <change afterPath="$PROJECT_DIR$/nested_loop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ran_dom.py" beforeDir="false" afterPath="$PROJECT_DIR$/ran_dom.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +47,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.loops_else.executor": "Run",
+    "Python.nested_loop.executor": "Run",
+    "Python.ran_dom.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -97,6 +93,15 @@
       <option name="presentableId" value="Default" />
       <updated>1726411913152</updated>
     </task>
+    <task id="LOCAL-00001" summary="loops_else, randoms">
+      <option name="closed" value="true" />
+      <created>1726417082412</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726417082412</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -109,5 +114,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="loops_else, randoms" />
+    <option name="LAST_COMMIT_MESSAGE" value="loops_else, randoms" />
   </component>
 </project>
